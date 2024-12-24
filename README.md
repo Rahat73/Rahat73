@@ -19,6 +19,8 @@ Hi, I'm Rahat. (wanna be a fullstack developer 😅). I love solving complex pro
 [![Email](https://img.shields.io/badge/Email-rahat.ashik.18@gmail.com-blue?logo=Gmail&logoColor=white)](mailto:rahat.ashik.18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahat-ashik)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahat.ashik.75)
+[![Discord](https://img.shields.io/badge/Discord-thanos1309-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/thanos1309)
+
 
 
 # 💻 Tech Stack:
