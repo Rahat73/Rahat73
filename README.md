@@ -8,6 +8,9 @@
 
 </div>
 
+# 🙎 Bio: 
+Hi, I'm Rahat. (wanna be a fullstack developer 😅). I love solving complex problems and creating seamless user experiences. Seeking to elevate my expertise in a prestigious, stable organization by securing a coveted position and contribute my expertise and collaborate with forward-thinking professionals in an environment that fosters innovation and growth.
+
 # 💫 About Me:
 🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Motion, Three.js<br>💬  Ask me about anything related to Javascript/Typescript/React/Next/Express/PostgreSQL/Prisma/Mongoose<br>⚡  Fun fact: I love playing video games 🎮
 
